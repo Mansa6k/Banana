@@ -45,3 +45,7 @@ streamlit run app.py
 # Dataset Insights
 
 The dataset comprises various health metrics like Glucose Level, Blood Pressure, BMI, etc., crucial for predicting diabetes. Detailed exploratory data analysis is conducted to understand correlations and distributions.
+
+# License
+
+MIT
