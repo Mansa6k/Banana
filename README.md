@@ -16,18 +16,18 @@ Diabetes Prediction harnesses the power of machine learning to forecast the onse
 
 # Getting Started
 
-* Prerequisites
+# Prerequisites
   
 Ensure you have Python 3.6+ installed on your system.
 
 # installation
 
-* Clone the Repository
+# Clone the Repository
 
 git clone https://github.com/your-username/diabetes-prediction.git
 cd diabetes-prediction
 
-* Environment Setup
+# Environment Setup
 
 python -m venv venv
 
