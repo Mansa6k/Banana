@@ -36,3 +36,8 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 pip install -r requirements.txt
 
 
+# Running the Application
+
+* Activate the web app:
+
+streamlit run app.py
