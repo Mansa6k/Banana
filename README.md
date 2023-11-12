@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 * Activate the web app:
 
-streamlit run app.py
+   streamlit run app.py
 
 # Dataset Insights
 
