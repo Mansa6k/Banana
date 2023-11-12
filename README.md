@@ -49,3 +49,7 @@ The dataset comprises various health metrics like Glucose Level, Blood Pressure,
 # License
 
 MIT
+
+# Author
+
+Andre Johnson 
