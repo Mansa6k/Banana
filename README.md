@@ -17,6 +17,7 @@ Diabetes Prediction harnesses the power of machine learning to forecast the onse
 # Getting Started
 
 * Prerequisites
+  
 Ensure you have Python 3.6+ installed on your system.
 
 
